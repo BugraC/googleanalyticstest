@@ -1,3 +1,14 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73352512-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <div>
 <a href="http://www.google.com/?elqTrackId=6ACC3D3E374295DF936F1B9ACC93A501&elqTrack=true&myparam=<span class=eloquaemail>First_Name11</span>">Clickme</a>
 <a href="http://mydomain.com?elqTrack=true">Link 1</a>
